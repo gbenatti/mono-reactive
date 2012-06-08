@@ -25,5 +25,7 @@ System.Reactive/obj/
 TestResult.xml
 mono-reactive.userprefs
 mono-reactive2.userprefs
+.DS_Store
+
 
 
